@@ -1,0 +1,31 @@
+Hak Cipta (c) 2026 Tim Hot Nerdy. Seluruh hak dilindungi undang-undang.
+
+Kode sumber dalam repositori ini dipublikasikan agar dapat dibaca dan
+dijalankan untuk keperluan penilaian dan peninjauan.
+
+Tanpa izin tertulis dari pemegang hak cipta, dilarang menyalin, mengubah,
+menyebarluaskan, menjual, atau menggunakan kode sumber ini, sebagian maupun
+seluruhnya, untuk tujuan lain.
+
+Pengecualian: spesifikasi format berkas .lenggang yang dijelaskan di README
+bersifat terbuka. Siapa pun boleh membuat perangkat lunak yang membaca atau
+menulis berkas .lenggang.
+
+Pustaka pihak ketiga yang dipakai proyek ini tetap tunduk pada lisensinya
+masing-masing.
+
+PERANGKAT LUNAK INI DISEDIAKAN "SEBAGAIMANA ADANYA", TANPA JAMINAN APA PUN,
+BAIK TERSURAT MAUPUN TERSIRAT. PEMEGANG HAK CIPTA TIDAK BERTANGGUNG JAWAB ATAS
+KERUGIAN APA PUN YANG TIMBUL DARI PENGGUNAAN PERANGKAT LUNAK INI.
+
+---
+
+Copyright (c) 2026 Tim Hot Nerdy. All rights reserved.
+
+The source code in this repository is published so that it can be read and
+run for evaluation and review. No part of it may be copied, modified,
+distributed, sold, or otherwise used for any other purpose without prior
+written permission from the copyright holder.
+
+Exception: the .lenggang file format specification described in the README is
+open. Anyone may build software that reads or writes .lenggang files.

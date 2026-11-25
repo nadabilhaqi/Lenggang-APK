@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Latar gelap Lenggang: layar pembuka dan lapisan belakang ikon. -->
+    <color name="lenggang_dark">#181420</color>
+    <color name="ic_launcher_background">#181420</color>
+</resources>
